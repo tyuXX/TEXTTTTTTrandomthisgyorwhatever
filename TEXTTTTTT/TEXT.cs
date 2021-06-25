@@ -19,7 +19,11 @@ namespace TEXTTTTTT
 
         private void TEXT_Load(object sender, EventArgs e)
         {
-
+            while ("ssdss" == "ssdss")
+            {
+                Form fm =new TEXT();
+                fm.Show();
+            }
         }
     }
 }
